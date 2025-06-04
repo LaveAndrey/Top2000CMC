@@ -1,3 +1,4 @@
 .env
 credentials.json
 frozen_coins.json
+.idea
